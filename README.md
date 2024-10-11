@@ -2,4 +2,4 @@
 
 - This is a simple content-based recommender system 
 
-- Data Used:  **Disneny Plus shows from Kaggle https://www.kaggle.com/unanimad/disney-plus-shows**
+- Data Used:  **Disney Plus shows from Kaggle https://www.kaggle.com/unanimad/disney-plus-shows**
